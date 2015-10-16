@@ -4,5 +4,5 @@ This contains all of my main aliases for linux administration to make the comman
 #####Command to install these aliases
 
 ```bash
-wget -qO- https://<raw-alias-link> | python
+wget -qO- http://bit.ly/install-aliases | python
 ```

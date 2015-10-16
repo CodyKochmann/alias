@@ -3,7 +3,7 @@
 # @Author: Cody Kochmann
 # @Date:   2015-10-16 10:06:16
 # @Last Modified by:   codykochmann
-# @Last Modified time: 2015-10-16 11:29:39
+# @Last Modified time: 2015-10-16 11:30:41
 
 bashrc_file="~/.bashrc"
 bash_aliases_file="~/.bash_aliases"
